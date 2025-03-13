@@ -9,5 +9,4 @@ terraform {
 
 provider "aws" {
   region     = "Global"
-  AWS_ACCESS_KEY = "AKIASTNEXRXLXVK2NB5K"
 }
