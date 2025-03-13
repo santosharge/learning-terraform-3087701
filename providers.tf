@@ -8,5 +8,6 @@ terraform {
 }
 
 provider "aws" {
-  # Configuration options
+  region     = "Global"
+  access_key = "AKIASTNEXRXLXVK2NB5K"
 }
